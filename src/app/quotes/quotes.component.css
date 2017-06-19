@@ -1,0 +1,40 @@
+.quotes {
+  height: 460px;
+  margin-left: 65%;
+  width: 30%;
+  border: 2px dashed #D84315;
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+ header {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 20px;
+  color: #1B5E20;
+ }
+
+.div-quote {
+  height: 130px;
+  padding:0;
+  margin:0;
+}
+
+.div-quote img {
+  width: 33%;
+  height: auto;
+  padding:0;
+  margin:0;
+}
+
+.div-quote p {
+  font-family: 'Kotta One', serif;
+  font-style: italic;
+  font-size: 13px;
+  padding-top: 12px;
+  padding-bottom: 0;
+  padding-right: 12px;
+  text-align: justify;
+  color: #616161;
+
+}

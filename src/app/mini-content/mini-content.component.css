@@ -1,0 +1,14 @@
+
+.min-content {
+  font-size: 25px;
+  width: 100%;
+  background-color: #006064;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0;
+  margin-bottom: 45px;
+  color: #FFC400;
+  /*border-top: 2px solid #AFB42B;
+  border-bottom: 2px solid #AFB42B;*/
+}

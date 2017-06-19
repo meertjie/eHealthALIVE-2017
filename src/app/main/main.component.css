@@ -1,0 +1,18 @@
+
+.img-container {
+  border: none;
+  width:65%;
+  height: 480;
+  background-color:#BDBDBD;
+  float: left;
+}
+.img-container img {
+  width: 100%;
+  height:auto;
+  margin:auto;
+  /*padding-left: 72px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;*/
+  opacity: 0.9;
+}
